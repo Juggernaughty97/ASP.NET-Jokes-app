@@ -1,2 +1,2 @@
 # ASP.NET-Jokes-app
-Simple asp.net with CRUD, DB, Authentication
+Simple web app with CRUD, DB, Authentication
